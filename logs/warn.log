@@ -1,0 +1,458 @@
+20171030 14:29:31 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (D:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (D:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:24:9)
+    at Function.getInstance (D:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:28:35)
+    
+20171030 14:33:17 - error: SequelizeBaseError: ER_BAD_NULL_ERROR: Column 'uuid' cannot be null
+    at Query.formatError (D:\nodeworkspace\blog\blog-srv\node_modules\_sequelize@3.30.4@sequelize\lib\dialects\mysql\query.js:175:14)
+    at Query._callback (D:\nodeworkspace\blog\blog-srv\node_modules\_sequelize@3.30.4@sequelize\li
+20171103 17:05:32 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ClientRequest.setHeader (_http_outgoing.js:511:3)
+    at new ClientRequest (_http_client.js:171:14)
+    at Object.request (http.js:39:10)
+    at Request.start (D:\nodeworkspace\blog\blog
+20171103 17:07:13 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ClientRequest.setHeader (_http_outgoing.js:511:3)
+    at new ClientRequest (_http_client.js:171:14)
+    at Object.request (http.js:39:10)
+    at Request.start (D:\nodeworkspace\blog\blog
+20171103 17:08:43 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ClientRequest.setHeader (_http_outgoing.js:511:3)
+    at new ClientRequest (_http_client.js:171:14)
+    at Object.request (http.js:39:10)
+    at Request.start (D:\nodeworkspace\blog\blog
+20171103 17:13:42 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ClientRequest.setHeader (_http_outgoing.js:511:3)
+    at new ClientRequest (_http_client.js:171:14)
+    at Object.request (http.js:39:10)
+    at Request.start (D:\nodeworkspace\blog\blog
+20171103 17:59:25 - error: TypeError: Cannot read property 'tracks' of undefined
+    at Object.getMyMusicList (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:13:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171103 18:01:01 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:25:93)
+    at <anonymous>
+    at pr
+20171104 11:29:00 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 11:29:11 - error: uncaughtException TypeError: res.send is not a function
+    at createWebAPIRequest (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:123:110)
+    at IncomingMessage.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:70:21)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 11:30:21 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 11:34:24 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 11:40:39 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 11:55:56 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 11:59:11 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:01:24 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:01:48 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:02:04 - error: uncaughtException TypeError: res.send is not a function
+    at createWebAPIRequest (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:123:110)
+    at IncomingMessage.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:70:21)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 12:03:57 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:04:30 - error: uncaughtException TypeError: res.send is not a function
+    at createWebAPIRequest (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:123:110)
+    at IncomingMessage.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:70:21)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 12:55:27 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:57:43 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 12:59:43 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:00:59 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:02:18 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:03:48 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:05:17 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:05:58 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:09:32 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:10:53 - error: uncaughtException TypeError: res.send is not a function
+    at IncomingMessage.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:68:21)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 13:11:38 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:33:43 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:38:56 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:39:46 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:45:09 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:50:18 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 13:50:32 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:27:13 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:28:10 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:31:20 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:31:33 - error: uncaughtException TypeError: res.om is not a function
+    at ClientRequest.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:57:21)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at ClientRequest.emit (events.js:210:7)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:564:21)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+    at Socket.socketOnData (_http_client.js:453:20)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at addChunk (_stream_readable.js:252:12)
+    at readableAddChunk (_stream_readable.js:239:11)
+    at Socket.Readable.push (_stream_readable.js:197:10)
+    at TCP.onread (net.js:589:20)
+20171104 14:32:10 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:34:34 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:34:47 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:35:88)
+    at <anonymous>
+20171104 14:53:43 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:41:88)
+    at <anonymous>
+20171104 14:54:00 - error: uncaughtException TypeError: ctx.send is not a function
+    at Search.music_1.createWebAPIRequest (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:23:122)
+    at IncomingMessage.<anonymous> (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:70:21)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 14:57:09 - error: TypeError: Cannot read property 'err' of undefined
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:41:88)
+    at <anonymous>
+20171104 16:13:29 - error: TypeError: First argument must be a string or Buffer
+    at write_ (_http_outgoing.js:655:11)
+    at ClientRequest.write (_http_outgoing.js:630:10)
+    at Promise (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:108:25)
+    at Promise (<anonymous>)
+    at Object.createRequest (d:\nodeworkspace\blo
+20171104 16:14:50 - error: TypeError: Method must be a valid HTTP token
+    at new ClientRequest (_http_client.js:153:13)
+    at Object.request (http.js:39:10)
+    at Promise (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:85:34)
+    at Promise (<anonymous>)
+    at Object.createRequest (d:\nodeworkspace\blog\blog-srv\build
+20171104 16:18:58 - error: TypeError: First argument must be a string or Buffer
+    at write_ (_http_outgoing.js:655:11)
+    at ClientRequest.write (_http_outgoing.js:630:10)
+    at Promise (d:\nodeworkspace\blog\blog-srv\build\lib\music.js:112:25)
+    at Promise (<anonymous>)
+    at Object.createRequest (d:\nodeworkspace\blo
+20171104 16:20:03 - error: uncaughtException Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketOnEnd (_http_client.js:436:23)
+    at emitNone (events.js:110:20)
+    at Socket.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1047:12)
+    at _combinedTickCallback (internal/process/next_tick.js:102:11)
+    at process._tickCallback (internal/process/next_tick.js:161:9)
+20171104 16:20:06 - error: uncaughtException Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketCloseListener (_http_client.js:376:23)
+    at emitOne (events.js:120:20)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:549:12)
+20171104 16:47:23 - error: TypeError: req.get is not a function
+    at Function.Search (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:11:26)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:42:119)
+    at wrap (d:\nodeworkspace\blog\blog-srv\build\lib\
+20171104 17:12:24 - error: TypeError: req.get is not a function
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:32:26)
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:41:34)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\b
+20171104 17:13:16 - error: TypeError: req.get is not a function
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:32:26)
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:41:34)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\b
+20171104 17:16:23 - error: TypeError: Cannot read property 'ids' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:30:36)
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:38:34)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodewo
+20171104 17:17:32 - error: TypeError: Cannot read property 'ids' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:30:36)
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:38:34)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodewo
+20171104 17:20:45 - error: TypeError: Cannot read property 'ids' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:30:36)
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:38:34)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodewo
+20171106 19:03:20 - error: TypeError: Cannot read property '0' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:50:33)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:04:18 - error: TypeError: Cannot read property '0' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:50:33)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:07:29 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:08:34 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:09:44 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:10:19 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:11:39 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:12:23 - error: TypeError: Cannot read property 'id' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:55:36)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171106 19:12:54 - error: TypeError: Cannot read property 'name' of undefined
+    at Function.SongDetail (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:56:38)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171107 10:47:26 - error: TypeError: Cannot read property '0' of undefined
+    at Function.dowmload (d:\nodeworkspace\blog\blog-srv\build\router\app\music.js:64:31)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+20171107 10:49:47 - error: Error: ENOENT: no such file or directory, open 'd:\nodeworkspace\blog\blog-srv\http:\m10.music.126.net\20171107111434\07fecfacf7479f1f68e72b6b87c9647d\ymusic\10ad\ecdc\b6e0\1db87400ccb4d86ece611f5a17d72948.mp3'
+    at Object.fs.openSync (fs.js:651:18)
+    at Object.fs.readFileSync (fs.js:553:33)
+   
+20171107 10:58:56 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ServerResponse.setHeader (_http_outgoing.js:511:3)
+    at Object.set (D:\nodeworkspace\blog\blog-srv\node_modules\_koa@2.3.0@koa\lib\response.js:440:16)
+    at Object.proto.(anonymous fu
+20171107 10:59:12 - error: uncaughtException Error: getaddrinfo ENOTFOUND m10.music.126.net m10.music.126.net:80
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:91:26)
+20171107 10:59:14 - error: uncaughtException Error: socket hang up
+    at createHangUpError (_http_client.js:344:15)
+    at Socket.socketCloseListener (_http_client.js:376:23)
+    at emitOne (events.js:120:20)
+    at Socket.emit (events.js:210:7)
+    at TCP._handle.close [as _onclose] (net.js:549:12)
+20171107 11:21:59 - error: Error: Path must be a string without null bytes
+    at nullCheck (fs.js:159:14)
+    at Object.fs.openSync (fs.js:650:3)
+    at Object.fs.readFileSync (fs.js:553:33)
+    at Function.dowmload (D:\nodeworkspace\blog\blog-srv\build\router\app\music.js:76:23)
+    at <anonymous>
+    at process._tickCallba
+20171107 11:30:10 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ServerResponse.setHeader (_http_outgoing.js:511:3)
+    at Object.set (D:\nodeworkspace\blog\blog-srv\node_modules\_koa@2.3.0@koa\lib\response.js:440:16)
+    at Object.proto.(anonymous fu
+20171107 11:32:44 - error: TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:507:11)
+    at ServerResponse.setHeader (_http_outgoing.js:511:3)
+    at Object.set (D:\nodeworkspace\blog\blog-srv\node_modules\_koa@2.3.0@koa\lib\response.js:440:16)
+    at Object.proto.(anonymous fu
+20171107 15:37:40 - error: uncaughtException Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1315:14)
+    at listenInCluster (net.js:1363:12)
+    at Server.listen (net.js:1463:7)
+    at main (d:\nodeworkspace\blog\blog-srv\build\www.js:9:41)
+    at <anonymous>
+20171108 17:03:58 - error: SyntaxError: Unexpected token ' in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Function.getUrls (D:\nodeworkspace\blog\blog-srv\build\router\app\music.js:62:24)
+    at basehandler_1.BaseHandler.exports.router.handle (D:\nodeworkspace\blog\blog-srv\build\router\app\music.js:81:124)
+    
+20171109 11:35:00 - error: uncaughtException Error: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:610:25)
+20171114 15:05:44 - error: TypeError: Cannot read property 'body' of null
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:20:30)
+    at <anonymous>
+20171114 15:23:11 - error: TypeError: Cannot read property 'body' of null
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:20:30)
+    at <anonymous>
+20171114 15:24:23 - error: SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:18:24)
+    at <anonymous>
+20171114 15:26:37 - error: SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:18:24)
+    at <anonymous>
+20171114 15:26:58 - error: SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:18:24)
+    at <anonymous>
+20171114 15:27:27 - error: SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Function.getArticle (D:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:18:24)
+    at <anonymous>
+20171120 17:27:57 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171120 17:28:42 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171120 17:29:02 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171120 17:29:28 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171123 15:40:44 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171123 15:41:05 - error: Error: invalid seqz
+    at ArticlesDb.ModelBase (d:\nodeworkspace\blog\blog-srv\build\model\lib\modelbase.js:6:19)
+    at ArticlesDb (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:25:9)
+    at Function.getInstance (d:\nodeworkspace\blog\blog-srv\build\model\blog\articles.js:29:35)
+    
+20171212 11:26:53 - error: Error: Unexpected field
+20171212 11:27:25 - error: Error: Unexpected field
+20171212 11:27:51 - error: Error: Unexpected field
+20171212 11:32:01 - error: Error: Unexpected field
+20171212 11:32:36 - error: Error: Unexpected field
+20171212 11:41:22 - error: Error: Unexpected field
+20171212 11:43:09 - error: Error: Unexpected field
+20171212 11:44:14 - error: Error: Unexpected field
+20171212 20:44:36 - error: SequelizeBaseError: ER_ACCESS_DENIED_ERROR: Access denied for user 'zhexia'@'113.116.214.118' (using password: YES)
+    at Handshake._callback (D:\nodeworkspace\blog\blog-srv\node_modules\_sequelize@3.31.1@sequelize\lib\dialects\mysql\connection-manager.js:83:20)
+    at Handshake.Sequence.end (D:\no
+20171213 11:35:42 - error: SequelizeBaseError: connect ETIMEDOUT
+    at Handshake._callback (D:\nodeworkspace\blog\blog-srv\node_modules\_sequelize@3.31.1@sequelize\lib\dialects\mysql\connection-manager.js:95:20)
+    at Handshake.Sequence.end (D:\nodeworkspace\blog\blog-srv\node_modules\_mysql@2.15.0@mysql\lib\protocol\sequen
+20171213 11:35:59 - error: SequelizeBaseError: connect ETIMEDOUT
+    at Handshake._callback (D:\nodeworkspace\blog\blog-srv\node_modules\_sequelize@3.31.1@sequelize\lib\dialects\mysql\connection-manager.js:95:20)
+    at Handshake.Sequence.end (D:\nodeworkspace\blog\blog-srv\node_modules\_mysql@2.15.0@mysql\lib\protocol\sequen
+20171223 17:14:08 - error: TypeError: Cannot read property 'err' of null
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:56:87)
+    at <anonymous>
+20171223 17:14:30 - error: TypeError: Cannot read property 'err' of null
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:56:87)
+    at <anonymous>
+20171223 17:14:33 - error: TypeError: Cannot read property 'err' of null
+    at Function.handlerResult (d:\nodeworkspace\blog\blog-srv\build\router\lib\basehandler.js:27:16)
+    at basehandler_1.BaseHandler.exports.router.handle (d:\nodeworkspace\blog\blog-srv\build\router\app\articles.js:56:87)
+    at <anonymous>
+20180103 15:06:36 - error: Error: Unexpected field
+20180103 15:14:54 - error: Error: Unexpected field
+20180103 15:18:00 - error: Error: Unexpected field
+20180103 15:21:12 - error: Error: Unexpected field
